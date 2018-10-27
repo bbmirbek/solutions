@@ -1,7 +1,3 @@
-/**
-start coding : 11:20
-	
-**/
 # include <bits/stdc++.h>
 
 using namespace std;
